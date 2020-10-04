@@ -2,7 +2,7 @@
 Find weather of any location
 
 
-#Setup
+# Setup
 Signup on Weather Stack and get API keys: https://weatherstack.com/documentation
 Singup on MapBox and get API keys: https://www.mapbox.com/
 
@@ -13,5 +13,5 @@ src/utils/geocode.js
 run npm install
 
 
-#To Run
+# To Run
 node src/app.js
