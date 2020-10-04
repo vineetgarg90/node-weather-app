@@ -1,4 +1,4 @@
-# node-weather-app
+# Node Weather App
 Find weather of any location
 
 
